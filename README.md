@@ -2,8 +2,8 @@
 
 ML Assignment 2 — M.Tech (AIML), BITS Pilani WILP
 
-- **GitHub repository:** `<ADD-YOUR-GITHUB-REPO-LINK>`
-- **Live Streamlit app:** `<ADD-YOUR-STREAMLIT-APP-LINK>`
+- **GitHub repository:** `https://github.com/doddasaisachin/shopper_purchase_predictor_BITS`
+- **Live Streamlit app:** `https://shopperpurchasepredictorbits-mve4fvvubaih9ewpyp57of.streamlit.app/`
 
 ---
 
